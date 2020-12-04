@@ -4,7 +4,7 @@ Copy the code
 
 Do CTRL + Shift + I
 
-Click on the console section in the top left 
+Click on the console section in the top right
 
 Paste the code in and press enter 
 
